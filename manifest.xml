@@ -11,7 +11,7 @@
     <project name="Lavender-LineageOS/hardware_qcom-caf_sdm660_media" path="hardware/qcom-caf/msm8998/media" revision="lineage-21.0" remote="github"/>
     <project name="Lavender-LineageOS/hardware_qcom-caf_sdm660_audio" path="hardware/qcom-caf/msm8998/audio" revision="lineage-21.0" remote="github"/>
     <project name="Lavender-Gang/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="Everest" remote="github" />
-    <project name="user-why-red/android_kernel_xiaomi_sdm660_419" path="kernel/xiaomi/lavender" revision="android-4.19-stable" remote="github" />
+    <project name="Lavender-Gang/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" revision="14.0-erofs" remote="github" />
     <project name="Lavender-Gang/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="14.0" remote="github" />
     <project name="Lavender-Gang/Keys" path="vendor/lineage-priv/keys" revision="main" remote="github" />
     <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-21" remote="github" />
